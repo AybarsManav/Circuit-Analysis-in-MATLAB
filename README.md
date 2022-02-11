@@ -1,5 +1,5 @@
-# MATLAB
-## Simple Circuit Simulator Using Modified Node Analysis (MNA)
+
+# Simple Circuit Simulator Using Modified Node Analysis (MNA)
 
 A simple circuit simulator that is capable of simulating circuits with the circuit elements:
 
