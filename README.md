@@ -48,4 +48,9 @@ For a circuit with n nodes and m independent voltage sources:
   - the bottom m elements represent the m independent voltage sources in the circuit.
 The unknown quantities can be obtained by solving the linear system of equations A ∙ x = z .
 
+### Power_wrt_load
+
+Another program that uses the program above as a function in a loop to sweep the load resistance, then calculates and lots the power (W) dissipated in the load versus the load resistance. Also displays the maximum power and the corresponding resistance on command window as well as puts a marker on the plot.
+
+
 [^1]: http://www.swarthmore.edu/NatSci/echeeve1/Ref/mna/MNA3.html
